@@ -5,7 +5,10 @@ I am a Fourth-year computer science student at Rutgers University, passionate ab
 
 ## What I'm Up To
 
+- 🤖 Exploring Machine Learning with scikit-learn
 - 💻 Building Spring Boot applications with PostgreSQL
+
+Check out my coding portfolio!
 
 
 ## 🌐 Connect with me:
