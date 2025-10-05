@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Matthew Duran</h1> 
 
 # About Me:
-I am a Fourth-year computer science student at Rutgers University, passionate about of coding, machine learning, and building robust applications.
+I am a Fourth-year computer science student at Rutgers University, passionate about of coding, machine learning, and building robust applications. 
 
 ## What I'm Up To
 
