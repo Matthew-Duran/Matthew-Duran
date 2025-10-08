@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋 I'm Matthew Duran</h1> 
  
 # About Me:
-I am a Fourth-year computer science student at Rutgers University, passionate about of coding, machine learning, and building robust applications. 
+I am a Fourth-year computer science student at Rutgers University, passionate about coding, machine learning, and building robust applications. 
+
+## 🚀 Featured Projects
+- **[The 12th Man](https://github.com/Matthew-Duran/The-12th-Man)** - Full-stack fantasy football analytics platform with Spring Boot, React, PostgreSQL, and ML predictions
+- **[Lockbox](https://github.com/Matthew-Duran/LockBox)** - Real-time presidential debate sentiment analyzer using custom NLP algorithms
+- **[Risotto House Tools](https://github.com/Matthew-Duran/Risotto-House-Tip-Website)** - Production web tools for restaurant operations
 
 ## What I'm Up To
-
-- 🤖 Exploring Machine Learning with scikit-learn
-- 💻 Building Spring Boot applications with PostgreSQL
+- 🤖 Building ML models with scikit-learn for sports analytics
+- 💻 Developing full-stack applications with Spring Boot & React
 
 Check out my [coding portfolio!](https://mduran-portfolio.netlify.app/)
 
-
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/matthew-q-duran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-q-duran)
 
 # 💻 Tech Stack:
 Languages: 
@@ -33,4 +36,4 @@ Libraries/Frameworks:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
