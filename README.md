@@ -7,7 +7,7 @@ I am a Fourth-year computer science student at Rutgers University, passionate ab
 - **[The 12th Man](https://github.com/Matthew-Duran/The-12th-Man)** - Full-stack fantasy football analytics platform with Spring Boot, React, PostgreSQL, and ML predictions
 - **[Lockbox](https://github.com/Matthew-Duran/LockBox)** - Real-time presidential debate sentiment analyzer using custom NLP algorithms
 - **[Risotto House Tools](https://github.com/Matthew-Duran/Risotto-House-Tip-Website)** - Production web tools for restaurant operations
-
+ 
 ## What I'm Up To
 - 🤖 Building ML models with scikit-learn for sports analytics
 - 💻 Developing full-stack applications with Spring Boot & React
